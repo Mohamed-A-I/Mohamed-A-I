@@ -1,5 +1,5 @@
 ### Hi, There  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I'm Mohamed from Egypt 🇪🇬, I am Software Enginee 👨🏻‍💻 who is real assinate about web develope and design ✨, I really enjoy learning new langauges, concepts and try them practically. I heve investigated a lot of developing feilds during my continous learning joureny so I have encountered many programming langauge and tools such as:
+I'm Mohamed from Egypt 🇪🇬, I am Software Engineer 👨🏻‍💻 who is real assinate about web develope and design ✨, I really enjoy learning new langauges, concepts and try them practically. I heve investigated a lot of developing feilds during my continous learning joureny so I have encountered many programming langauge and tools such as:
 
 
 
